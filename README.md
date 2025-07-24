@@ -1,4 +1,5 @@
-#💬 AI Echo: Your Smartest Conversational Partner
+💬 AI Echo: Your Smartest Conversational Partner
+
 AI Echo is a smart sentiment analysis system built to understand user emotions expressed in ChatGPT reviews. Using machine learning and deep learning models, the system classifies reviews as Positive, Neutral, or Negative—delivering actionable insights for product teams, researchers, and developers.
 
 📌 1. Problem Statement
